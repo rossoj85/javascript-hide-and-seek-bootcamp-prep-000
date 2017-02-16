@@ -15,6 +15,7 @@ this is useful in the next step bcause now I can get their length*/
   }
 }
 
+
 //node.children[0] returns the first child of the of the no
 function deepestChild(){
  let node = document.querySelector('#grand-node');
